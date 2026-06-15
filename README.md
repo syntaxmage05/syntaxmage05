@@ -1,17 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Syntax mage</h1>
+<h1 align="center">Hi there👋</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxmage05&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxmage05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syntaxmage05&theme=darkhub" alt="syntaxmage05" /></a> </p>
 
-- 🔭 I’m currently working on **tracker**
-- 👯 I’m looking to collaborate on **TCP **
-- 🤝 I’m looking for help with **Redis database(k-v)**
-- 🌱 I’m currently learning **Laravel and Flutter**
-- 💬 Ask me about **React, Ruby, Ruby on Rails, C, **
-- 📫 How to reach me **syntaxmage05@gmail.com**
-- ⚡ Fun fact **Every developer favorite bar is foobar**
+I consider myself a problem solver and not merely a software engineer. I love coming up with solution that can be solved programatically.
 
 <div> <a href="https://www.linkedin.com/in/muturidev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/syntaxmage05" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
